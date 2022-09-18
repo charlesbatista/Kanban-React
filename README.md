@@ -1,5 +1,7 @@
 # Kanban-React
-Meu primeiro projeto de aprendizagem em React
+Meu primeiro projeto de aprendizagem em React.
+
+Para visualizar o projeto online: [https://tn8zt1-3000.preview.csb.app/]
 
 Neste pequeno projeto Kanban aprendi os conceitos para iniciar um aplicativo em React, assim como a criação de componentes e manipulação do seus "estados".
 
