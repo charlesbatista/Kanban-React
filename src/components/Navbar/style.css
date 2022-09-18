@@ -1,0 +1,15 @@
+nav {
+    background: #3b5998;
+    padding: 1rem;
+    font-weight: 800;
+    font-size: 1.3rem
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.descricao {
+    font-size: 1.1rem
+}
