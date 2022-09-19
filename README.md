@@ -1,5 +1,5 @@
 # Kanban-React
-Meu primeiro projeto de aprendizagem em React.
+Meu primeiro projeto de aprendizagem em React. Este projeto foi criado com base no curso gratuito do Bruno, que pode ser acessado aqui: https://github.com/brunojppb/curso-react-para-iniciantes
 
 Para visualizar o projeto online: [https://tn8zt1-3000.preview.csb.app/]
 
@@ -21,5 +21,3 @@ Neste pequeno projeto Kanban aprendi os conceitos para iniciar um aplicativo em 
 - Renderizando Listas
 
 Espero que com a base adquirida, construa novos projetos para continuar meu desenvolvimento front-end.
-
-Este projeto foi criado com base no curso gratuito do Bruno, que pode ser acessado aqui: https://github.com/brunojppb/curso-react-para-iniciantes
